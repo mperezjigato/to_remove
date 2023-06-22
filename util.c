@@ -3,9 +3,9 @@
 #include "util.h"
 
 void say_hello() {
-    printf("hello world!\n");
+    printf("Hello world!\n");
 }
 
 void say_bye() {
-    printf("bye world!\n");
+    printf("Bye world!\n");
 }
