@@ -2,3 +2,7 @@
 *~
 *.swp
 *.bak
+
+# executables
+a.out
+*.exe
